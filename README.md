@@ -1,7 +1,7 @@
-# Cloud Computing Conferences
-A collection of scientific and industry conferences focused on cloud computing.  
+# Recommender Systems Conferences
+A collection of scientific and industry conferences focused on Recommender Systems.
 
-__View it @ http://stefan-kolb.github.io/cloud-conferences/__
+__View it @ __
 
 ## Contribution
 
