@@ -8,3 +8,26 @@
   location: "Nanyang Technological University, Singapore"
   edition: 26
   page_limit: 8
+
+- name: Conference on Recommender Systems
+  abbrv: RecSys
+  url: https://recsys.acm.org/recsys18/
+  organization: ACM
+  deadline: "TBD"
+  date_from: "2018-10-02"
+  date_to: "2018-10-7"
+  location: "Vancouver, BC, Canada"
+  edition: 12
+  acceptance:
+    - 2017: 21
+    - 2016: 18
+    - 2015: 21
+    - 2014: 23
+    - 2013: 23
+    - 2012: 20
+    - 2011: 20
+    - 2010: 19
+    - 2009: 43
+    - 2008: 31
+    - 2007: 46
+  page_limit: 8
