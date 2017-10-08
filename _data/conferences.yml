@@ -13,10 +13,10 @@
   abbrv: RecSys
   url: https://recsys.acm.org/recsys18/
   organization: ACM
-  deadline: "TBD"
+  deadline: "0001-01-01"
   date_from: "2018-10-02"
   date_to: "2018-10-7"
-  location: "Vancouver, BC, Canada"
+  location: "Parq Vancouver, Vancouver, BC, Canada"
   edition: 12
   acceptance:
     - 2017: 21
