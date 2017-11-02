@@ -31,3 +31,14 @@
     - 2008: 31
     - 2007: 46
   page_limit: 8
+
+- name: Web Search and Data Mining
+  abbrv: WSDM
+  url: http://www.wsdm-conference.org/2018/
+  organization: ACM
+  deadline: "2017-08-12"
+  date_from: "2018-02-06"
+  date_to: "2018-02-08"
+  location: "Los Angeles, California, USA"
+  edition: 11
+  page_limit: 8
