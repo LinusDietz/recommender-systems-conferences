@@ -9,7 +9,7 @@
   edition: 26
   page_limit: 8
 
-- name: Conference on Recommender Systems
+- name: Recommender Systems
   abbrv: RecSys
   url: https://recsys.acm.org/recsys18/
   organization: ACM
@@ -42,3 +42,14 @@
   location: "Los Angeles, California, USA"
   edition: 11
   page_limit: 8
+  
+- name: Web and Social Media
+  abbrv: ICWSM
+  url: http://www.icwsm.org/2018
+  organization: AAAI
+  deadline: "0001-01-01"
+  date_from: "2018-06-25"
+  date_to: "2018-06-28"
+  location: "Stanford, California, USA"
+  edition: 12
+  page_limit: 10
