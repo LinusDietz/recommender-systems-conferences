@@ -1,7 +1,7 @@
 # Recommender Systems Conferences
 A collection of scientific and industry conferences focused on Recommender Systems.
 
-__View it @ https://lynyus.github.io/recommender-systems-conferences/__
+__View it @ https://linusdietz.github.io/recommender-systems-conferences__
 
 ## Contribution
 
