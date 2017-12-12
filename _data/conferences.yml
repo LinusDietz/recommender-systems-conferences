@@ -64,3 +64,14 @@
   location: "Seville, Spain"
   edition: 14
   page_limit: 12
+
+- name: International Conference on Human-Computer Interaction with Mobile Devices and Services
+  abbrv: MobileHCI
+  url: https://mobilehci.acm.org
+  organization: ACM
+  deadline: "2018-02-09"
+  date_from: "2018-09-3"
+  date_to: "2018-09-6"
+  location: "Barcelona, Spain"
+  edition: 20
+  page_limit: 10
